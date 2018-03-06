@@ -1,0 +1,10 @@
+.row_post{
+    border-bottom: 2px solid #fff067;
+    margin: 10px 0 20px 0;
+    background-color: #f1ffc1;
+    padding: 10px;
+}
+.response{
+    min-height: 20px;
+    font-size: 12px;
+}
